@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Assignment3  test","This will create new user","SUCCESS","2018-12-06T15:06:06.603+05:30[Asia/Calcutta]","0.0","1.26"
+"Assignment3  test","This will check existing user","SUCCESS","2018-12-06T15:06:07.865+05:30[Asia/Calcutta]","0.0","0.79"

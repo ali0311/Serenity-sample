@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.getrequest.junit.Assignment2_Test" skipped="0" tests="2" time="7.15" timestamp="2018-12-08 02:02:00"><testcase classname="com.getrequest.junit.Assignment2_Test" name="Validate largest city"/><testcase classname="com.getrequest.junit.Assignment2_Test" name="Validate state list"/></testsuite>
